@@ -1,9 +1,9 @@
 {
-  "server" : "http://pm",
-  "workspace" : "workflow",
-  "clientId" : "NYNRYVNKKNYGUYNGURAAKCWCRLUQEPKS",
-  "clientSecret" : "5519814215526ca9ebd4a93002540483",
-  "redirectUri" : "http://localhost",
+  "server" : "",
+  "workspace" : "",
+  "clientId" : "",
+  "clientSecret" : "",
+  "redirectUri" : "",
   "grantType" : "authorization_code",
   "scope" : "view_processes edit_processes"
 }
